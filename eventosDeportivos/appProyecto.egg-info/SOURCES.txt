@@ -1,0 +1,10 @@
+setup.py
+appProyecto/__init__.py
+appProyecto/addData.py
+appProyecto/controllers.py
+appProyecto/models.py
+appProyecto.egg-info/PKG-INFO
+appProyecto.egg-info/SOURCES.txt
+appProyecto.egg-info/dependency_links.txt
+appProyecto.egg-info/requires.txt
+appProyecto.egg-info/top_level.txt

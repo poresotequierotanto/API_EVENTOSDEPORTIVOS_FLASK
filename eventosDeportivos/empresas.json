@@ -1,0 +1,43 @@
+[
+ 	{
+	   "nombre": "CLUB JUDO ARGANDA",
+	   "ciudad": "ARGANDA",
+	   "mail": "shuelena@gmail.com",
+	   "telefono": "111222333"
+ 	}
+ 	,
+ 	{
+	   "nombre": "CLUB ATLETISMO ARGANDA",
+	   "ciudad": "ARGANDA",
+	   "mail": "shujesu@gmail.com",
+	   "telefono": "444555666"
+ 	}
+ 	,
+ 	{
+	   "nombre": "CLUB PATINAJE ARGANDA",
+	   "ciudad": "ARGANDA",
+	   "mail": "fernandicosucolega@gmail.com",
+	   "telefono": "777888999"
+ 	}
+ 	,
+ 	{
+	   "nombre": "CLUB NATACION ARGANDA",
+	   "ciudad": "ARGANDA",
+	   "mail": "antionio@gmail.com",
+	   "telefono": "123456789"
+ 	}
+ 	,
+ 	{
+	   "nombre": "CLUB KARATE IVAN LEAL",
+	   "ciudad": "ARGANDA",
+	   "mail": "manolikosubro@gmail.com",
+	   "telefono": "222555888"
+ 	}
+ 	,
+ 	{
+	   "nombre": "CLUB GIMNASIA RITMICA ARGANDA",
+	   "ciudad": "ARGANDA",
+	   "mail": "mellamanjose@outlook.es",
+	   "telefono": "777555333"
+ 	}
+ ]
